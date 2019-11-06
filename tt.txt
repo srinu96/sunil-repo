@@ -1,3 +1,8 @@
 devops cls
 cls
+<<<<<<< HEAD
 banking
+=======
+insurance 
+>>>>>>> 4e76684300480a54b8ed2bfa358ee13fc6817d1e
+logistics
